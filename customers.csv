@@ -1,0 +1,13 @@
+customer_id,customer_name,last_purchase_days,total_orders,total_spend,last_product,email_consent,previous_response
+C001,Sarah,45,4,320,Skincare set,True,No response
+C002,Daniel,8,7,680,Wireless headphones,True,Clicked
+C003,Aisha,95,2,120,Running shoes,True,No response
+C004,Marcus,18,1,65,Coffee accessories,True,Purchased
+C005,Chloe,72,5,450,Beauty products,True,No response
+C006,Ethan,12,6,510,Smart home device,False,Clicked
+C007,Mei,38,3,240,Travel backpack,True,No response
+C008,Noah,110,1,45,Phone case,True,No response
+C009,Amira,5,9,920,Premium skincare,True,Purchased
+C010,Lucas,55,2,150,Running shoes,True,No response
+C011,Priya,25,4,360,Kitchenware,True,Clicked
+C012,Jayden,82,3,280,Wireless earbuds,True,No response
